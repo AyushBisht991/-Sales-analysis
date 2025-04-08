@@ -70,9 +70,7 @@ Below are sample views of the Power BI Dashboards for each e-commerce platform:
 
 ![image](https://github.com/user-attachments/assets/41f77451-5e39-4626-b428-55dbdc8565f1)
 
-### 🖼Zepto Dashboard
 
-![image](https://github.com/user-attachments/assets/4b6fa2ca-9770-4391-94bc-ea80f79543f5)
 
 ### 🖼Myntra Dashboard
 
